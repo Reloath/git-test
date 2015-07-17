@@ -1,0 +1,10 @@
+-- GIT commands --
+
+-- add all files in library
+git add .
+
+-- commit files
+git commit -m "Message"
+
+-- push changes to github
+git push

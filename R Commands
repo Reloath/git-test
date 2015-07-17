@@ -1,0 +1,10 @@
+-- R Commands --
+
+-- install package
+install.packages("ggplot2")
+
+-- load package
+library(ggplot2)
+
+-- list functions
+search()
